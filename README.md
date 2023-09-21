@@ -12,6 +12,6 @@ The files inside the repo are:
 * main.py
 * teams.csv
 * out:
-  * draws
+  * draws.txt
   * ucl_results_table.csv
   * ucl_results.txt 
