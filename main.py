@@ -1,5 +1,5 @@
 import pandas as pd
-import ucl_functions as ucl
+import ucl_draw_functions as ucl
 
 # Reading input csv
 data = pd.read_csv("teams.csv", index_col="TEAM")
