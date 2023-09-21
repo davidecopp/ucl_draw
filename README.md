@@ -5,7 +5,15 @@ This repo can be used for every draw of the knock-out stage of every tournament,
 The algorithm is based on the Monte Carlo method and the frequentist theory of probability: a set number of valid draws are done, and after that the occurences of each drawn match are counted. 
 Dividing the number of occurences for the wanted number of valid draws, we obtain the "probability" of a given match.
 Higher the set number of draws, closer to the real probabilities the frequence-based probabilities are.
-I applied the algorithm to the teams of the Champions League 2018-19 Round of 16.
+I applied the algorithm to the teams of the Champions League 2018-19 Round of 16. The matches drawn were:
+* Tottenham Hotspur	- Borussia Dortmund
+* Schalke 04	- Manchester City
+* Ajax	- Real Madrid
+* Atlético Madrid	- Juventus
+* Manchester United - Paris Saint-Germain
+* Lyon	- Barcelona
+* Liverpool	- Bayern Munich
+* Roma	- Porto 
 
 The files inside the repo are:
 
